@@ -1,5 +1,23 @@
-### Hi I'm Ceglaa 🧱
+## 🧱 Hi I'm **Ceglaa** 🧱
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ceglaa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🔧 What i am currently working on? 🔧
+- Coding SCP:Secret Laboratory plugins using EXILED Framework
+- Contributing to some open source projects
+- Creating my own game
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceglaa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📚 My learning path 📚
+- [ ] Learn how to make Minecraft Plugins
+  - [ ] Basics of java
+  - [ ] Spigot API/Framework
+- [ ] Learn how to properly use Docker
+- [ ] Learn ASP.NET
+
+<br>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ceglaa&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceglaa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 💻 My Socials 💻
+
+[![YouTube](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/youtube-icon.png)](https://www.youtube.com/channel/UCl59l-sj9dlIairoM_ljl5A) &nbsp;
+[![Twitter](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Twitter-icon.png)](https://twitter.com/Cegla__) &nbsp;
+[![Twitch](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/gnome-twitch-icon.png)](https://www.twitch.tv/ceglanafazie) &nbsp; 
