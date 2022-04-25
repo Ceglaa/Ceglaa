@@ -22,5 +22,7 @@
 [![Twitter](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Twitter-icon.png)](https://twitter.com/Cegla__) &nbsp;
 [![Twitch](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/gnome-twitch-icon.png)](https://www.twitch.tv/ceglanafazie) &nbsp; 
 
+<!--START_SECTION:activity-->
+
 ### 🎧 Currently playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fijalekkapi&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fijalekkapi&redirect=true)
