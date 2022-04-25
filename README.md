@@ -22,6 +22,8 @@
 [![Twitter](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Twitter-icon.png)](https://twitter.com/Cegla__) &nbsp;
 [![Twitch](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/gnome-twitch-icon.png)](https://www.twitch.tv/ceglanafazie) &nbsp; 
 
+### 🔎 Activities 🔍
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/Ceglaa/CustomBreachScenarios/pull/3) in [Ceglaa/CustomBreachScenarios](https://github.com/Ceglaa/CustomBreachScenarios)
 2. 💪 Opened PR [#3](https://github.com/Ceglaa/CustomBreachScenarios/pull/3) in [Ceglaa/CustomBreachScenarios](https://github.com/Ceglaa/CustomBreachScenarios)
