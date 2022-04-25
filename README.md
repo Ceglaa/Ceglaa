@@ -23,6 +23,12 @@
 [![Twitch](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/gnome-twitch-icon.png)](https://www.twitch.tv/ceglanafazie) &nbsp; 
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/Ceglaa/CustomBreachScenarios/pull/3) in [Ceglaa/CustomBreachScenarios](https://github.com/Ceglaa/CustomBreachScenarios)
+2. 💪 Opened PR [#3](https://github.com/Ceglaa/CustomBreachScenarios/pull/3) in [Ceglaa/CustomBreachScenarios](https://github.com/Ceglaa/CustomBreachScenarios)
+3. 🎉 Merged PR [#2](https://github.com/Ceglaa/CustomBreachScenarios/pull/2) in [Ceglaa/CustomBreachScenarios](https://github.com/Ceglaa/CustomBreachScenarios)
+4. 💪 Opened PR [#2](https://github.com/Ceglaa/CustomBreachScenarios/pull/2) in [Ceglaa/CustomBreachScenarios](https://github.com/Ceglaa/CustomBreachScenarios)
+5. 🗣 Commented on [#1163](https://github.com/Exiled-Team/EXILED/issues/1163) in [Exiled-Team/EXILED](https://github.com/Exiled-Team/EXILED)
+<!--END_SECTION:activity-->
 
 ### 🎧 Currently playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fijalekkapi&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fijalekkapi&redirect=true)
