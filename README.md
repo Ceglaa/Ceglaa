@@ -1,13 +1,13 @@
 ## 🧱 Hi I'm **Ceglaa** 🧱
 
 ### 🔧 What i am currently working on? 🔧
-- Coding SCP:Secret Laboratory plugins using EXILED Framework
+- Coding SCP:Secret Laboratory plugins using [EXILED](https://github.com/Exiled-Team/EXILED/) Framework
 - Contributing to some open source projects
 - Creating my own game
 
 ### 📚 My learning path 📚
 - [ ] Learn how to make Minecraft Plugins
-  - [ ] Basics of java
+  - [x] Basics of java
   - [ ] Spigot API/Framework
 - [ ] Learn how to properly use Docker
 - [ ] Learn ASP.NET
