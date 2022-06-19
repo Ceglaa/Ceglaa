@@ -25,11 +25,11 @@
 ### 🔎 Activities 🔍
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/Michal78900/MapEditorReborn/pull/44) in [Michal78900/MapEditorReborn](https://github.com/Michal78900/MapEditorReborn)
-2. 🎉 Merged PR [#3](https://github.com/Ceglaa/CustomBreachScenarios/pull/3) in [Ceglaa/CustomBreachScenarios](https://github.com/Ceglaa/CustomBreachScenarios)
-3. 💪 Opened PR [#3](https://github.com/Ceglaa/CustomBreachScenarios/pull/3) in [Ceglaa/CustomBreachScenarios](https://github.com/Ceglaa/CustomBreachScenarios)
-4. 🎉 Merged PR [#2](https://github.com/Ceglaa/CustomBreachScenarios/pull/2) in [Ceglaa/CustomBreachScenarios](https://github.com/Ceglaa/CustomBreachScenarios)
-5. 💪 Opened PR [#2](https://github.com/Ceglaa/CustomBreachScenarios/pull/2) in [Ceglaa/CustomBreachScenarios](https://github.com/Ceglaa/CustomBreachScenarios)
+1. ❗️ Closed issue [#1](https://github.com/Ceglaa/OmegaWarhead/issues/1) in [Ceglaa/OmegaWarhead](https://github.com/Ceglaa/OmegaWarhead)
+2. 🗣 Commented on [#1](https://github.com/Ceglaa/OmegaWarhead/issues/1) in [Ceglaa/OmegaWarhead](https://github.com/Ceglaa/OmegaWarhead)
+3. 💪 Opened PR [#44](https://github.com/Michal78900/MapEditorReborn/pull/44) in [Michal78900/MapEditorReborn](https://github.com/Michal78900/MapEditorReborn)
+4. 🎉 Merged PR [#3](https://github.com/Ceglaa/CustomBreachScenarios/pull/3) in [Ceglaa/CustomBreachScenarios](https://github.com/Ceglaa/CustomBreachScenarios)
+5. 💪 Opened PR [#3](https://github.com/Ceglaa/CustomBreachScenarios/pull/3) in [Ceglaa/CustomBreachScenarios](https://github.com/Ceglaa/CustomBreachScenarios)
 <!--END_SECTION:activity-->
 
 ### 🎧 Currently playing 🎧
