@@ -21,6 +21,7 @@
 [![YouTube](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/youtube-icon.png)](https://www.youtube.com/channel/UCl59l-sj9dlIairoM_ljl5A) &nbsp;
 [![Twitter](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Twitter-icon.png)](https://twitter.com/Cegla__) &nbsp;
 [![Twitch](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/gnome-twitch-icon.png)](https://www.twitch.tv/ceglanafazie) &nbsp; 
+[![Discord](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/discord-icon.png)](https://discord.gg/AksnEn3g) &nbsp;
 
 ### 🔎 Activities 🔍
 
