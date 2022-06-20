@@ -8,11 +8,13 @@
 ### 📚 My learning path 📚
 - [ ] Learn how to make Minecraft Plugins
   - [x] Basics of java
-  - [ ] Spigot API/Framework
-- [ ] Learn how to properly use Docker
-- [ ] Learn ASP.NET
-
+  - [ ] [Spigot](https://www.spigotmc.org/) API/Framework
+- [ ] Learn how to properly use [Docker](https://www.docker.com/)
+- [ ] Learn [ASP.NET](https://docs.microsoft.com/en-us/learn/paths/create-microservices-with-dotnet/)
+- [ ] Learn how to use [Github Actions](https://docs.github.com/en/actions)
 <br>
+
+[More About Me](README.md#toolsprograms-i-use)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ceglaa&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceglaa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,6 +24,13 @@
 [![Twitter](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Twitter-icon.png)](https://twitter.com/Cegla__) &nbsp;
 [![Twitch](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/gnome-twitch-icon.png)](https://www.twitch.tv/ceglanafazie) &nbsp; 
 [![Discord](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/discord-icon.png)](https://discord.gg/AksnEn3g) &nbsp;
+
+**<details><summary>Tools/Programs i use</summary>**
+- .NET IDE: [Rider](https://www.jetbrains.com/rider/)
+- Java IDE: [Intellij IDEA](https://www.jetbrains.com/idea/)
+- C#/VBS Decompiler: [dnSpy](https://github.com/dnSpy/dnSpy)
+- Text Editor: [Visual Studio Code](https://code.visualstudio.com/)
+</details>
 
 ### 🔎 Activities 🔍
 
