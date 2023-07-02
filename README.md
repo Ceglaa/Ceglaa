@@ -1,15 +1,16 @@
 ## 🧱 Hi I'm **Ceglaa** 🧱
 
 ### 🔧 What i am currently working on? 🔧
-- Coding SCP:Secret Laboratory plugins using [EXILED](https://github.com/Exiled-Team/EXILED/) Framework
+- Creating SCP:Secret Laboratory plugins using [EXILED](https://github.com/Exiled-Team/EXILED/) Framework, Paid requests open
 - Contributing to some open source projects
-- Creating my own game
+- Learning backend stuff
+- Learning to make my own OS
 
 ### 📚 My learning path 📚
-- [ ] Learn how to make Minecraft Plugins
+- [x] Learn how to make Minecraft Plugins
   - [x] Basics of java
-  - [ ] [Spigot](https://www.spigotmc.org/) API/Framework
-- [ ] Learn how to properly use [Docker](https://www.docker.com/)
+  - [x] [Spigot](https://www.spigotmc.org/) API/Framework
+- [x] Learn how to properly use [Docker](https://www.docker.com/)
 - [ ] Learn [ASP.NET](https://docs.microsoft.com/en-us/learn/paths/create-microservices-with-dotnet/)
 - [ ] Learn how to use [Github Actions](https://docs.github.com/en/actions)
 <br>
@@ -29,7 +30,9 @@
 - .NET IDE: [Rider](https://www.jetbrains.com/rider/)
 - Java IDE: [Intellij IDEA](https://www.jetbrains.com/idea/)
 - C#/VBS Decompiler: [dnSpy](https://github.com/dnSpy/dnSpy)
-- Text Editor: [Visual Studio Code](https://code.visualstudio.com/)
+- Text Editor: [Fleet](https://www.jetbrains.com/fleet/)
+- Notes: [Obsidian](https://obsidian.md/)
+- .NET Helpers: [dotMemory](https://www.jetbrains.com/dotmemory/), [dotTrace](https://www.jetbrains.com/profiler/)
 </details>
 
 ### 🔎 Activities 🔍
