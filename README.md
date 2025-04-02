@@ -11,8 +11,8 @@
   - [x] Basics of java
   - [x] [Spigot](https://www.spigotmc.org/) API/Framework
 - [x] Learn how to properly use [Docker](https://www.docker.com/)
-- [ ] Learn [ASP.NET](https://docs.microsoft.com/en-us/learn/paths/create-microservices-with-dotnet/)
-- [ ] Learn how to use [Github Actions](https://docs.github.com/en/actions)
+- [x] Learn [ASP.NET](https://docs.microsoft.com/en-us/learn/paths/create-microservices-with-dotnet/)
+- [x] Learn how to use [Github Actions](https://docs.github.com/en/actions)
 <br>
 
 [More About Me](README.md#toolsprograms-i-use)
